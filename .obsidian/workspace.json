@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8c43feb9dc4d9341",
+        "id": "941c81ccdc4ab0c2",
         "type": "tabs",
         "children": [
           {
-            "id": "e8fc2a6baed37579",
+            "id": "b2ef75edc2551c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 14 媒体查询.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f00ff2f82d837ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 AcWing教程/00 HTML 基础标签.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1739d49e790c42d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 AcWing教程/01 CSS.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be573a92448ff215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 AcWing教程/02 JavaScript.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23a8c70df82b08c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md",
+                "file": "01 AcWing教程/03 JavaScript常用库.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md",
+                "file": "01 AcWing教程/03 JavaScript常用库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md",
+                "file": "01 AcWing教程/03 JavaScript常用库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md"
+                "file": "01 AcWing教程/03 JavaScript常用库.md"
               }
             }
           }
@@ -211,17 +158,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "23a8c70df82b08c4",
+  "active": "b2ef75edc2551c78",
   "lastOpenFiles": [
-    "00 蓝桥杯教程/00 写在开头的话/实验 0 写在开头的话.md",
+    "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md",
     "01 AcWing教程/02 JavaScript.md",
-    "01 AcWing教程/03 JavaScript常用库.md",
     "01 AcWing教程/01 CSS.md",
+    "01 AcWing教程/00 HTML 基础标签.md",
     "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 12 CSS3 新特性.md",
+    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 4 块级标签.md",
+    "00 蓝桥杯教程/00 写在开头的话/实验 0 写在开头的话.md",
+    "01 AcWing教程/03 JavaScript常用库.md",
     "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 8 CSS 基础语法.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 3 行内标签.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 11 浮动与定位.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 10 display 属性.md"
+    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 8 CSS 基础语法.md"
   ]
 }
