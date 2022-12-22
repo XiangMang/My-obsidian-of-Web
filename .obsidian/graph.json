@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"00 蓝桥杯教程\"",
+      "color": {
+        "a": 1,
+        "rgb": 5091547
+      }
+    },
+    {
+      "query": "path:\"01 AcWing教程\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431428
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.995715811965812,
+  "lineSizeMultiplier": 0.995715811965812,
+  "collapse-forces": false,
+  "centerStrength": 0.520190023752969,
+  "repelStrength": 13.6342042755344,
+  "linkStrength": 1,
+  "linkDistance": 212,
+  "scale": 0.7514342322277607,
+  "close": true
+}

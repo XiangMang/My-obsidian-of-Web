@@ -1,0 +1,18 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "01 模板/图片库",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

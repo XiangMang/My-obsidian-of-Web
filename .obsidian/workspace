@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "868e5c7fa4efcda4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0baf5331009f8a05",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf3f6485563272cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b3b2cfee4677a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59ba635f9b74ed6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb5417e5af09a30f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0129052f61c1bc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "67b79e201fa4831c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311
+  },
+  "right": {
+    "id": "a023e450ecd8161f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a57e40e04c587c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c31ee63fcb5302",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05305ac5c0f3eec1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "55fcbbe2d60f7a00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f5701dfb7d6fc2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md"
+              }
+            }
+          },
+          {
+            "id": "3100e7bacd1910d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0baf5331009f8a05",
+  "lastOpenFiles": [
+    "03 PAT甲级/02 第二章 高精度/06 1136 A Delayed Palindrome.md",
+    "03 PAT甲级/02 第二章 高精度/05 1058 A+B in Hogwarts.md",
+    "03 PAT甲级/02 第二章 高精度/04 1024 Palindromic Number.md",
+    "03 PAT甲级/02 第二章 高精度/03 1023 Have Fun with Numbers.md",
+    "03 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md",
+    "03 PAT甲级/02 第二章 高精度/01 1002 A+B for Polynomial.md",
+    "03 PAT甲级/01 第一章 字符串处理/07 1071 Speech Patterns.md",
+    "03 PAT甲级/01 第一章 字符串处理/02 1005 Spell It Right.md",
+    "03 PAT甲级/01 第一章 字符串处理/01 1001 A+B Format.md",
+    "03 PAT甲级/01 第一章 字符串处理/03 1006 Sign In and Sign Out.md"
+  ]
+}

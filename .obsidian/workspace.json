@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "868e5c7fa4efcda4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c43feb9dc4d9341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8fc2a6baed37579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 14 媒体查询.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f00ff2f82d837ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 AcWing教程/00 HTML 基础标签.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1739d49e790c42d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 AcWing教程/01 CSS.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be573a92448ff215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 AcWing教程/02 JavaScript.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23a8c70df82b08c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf3f6485563272cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b3b2cfee4677a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59ba635f9b74ed6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "eb5417e5af09a30f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "text-align",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0129052f61c1bc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "67b79e201fa4831c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "a023e450ecd8161f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a57e40e04c587c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c31ee63fcb5302",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05305ac5c0f3eec1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "55fcbbe2d60f7a00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f5701dfb7d6fc2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "23a8c70df82b08c4",
+  "lastOpenFiles": [
+    "00 蓝桥杯教程/00 写在开头的话/实验 0 写在开头的话.md",
+    "01 AcWing教程/02 JavaScript.md",
+    "01 AcWing教程/03 JavaScript常用库.md",
+    "01 AcWing教程/01 CSS.md",
+    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 12 CSS3 新特性.md",
+    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md",
+    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 8 CSS 基础语法.md",
+    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 3 行内标签.md",
+    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 11 浮动与定位.md",
+    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 10 display 属性.md"
+  ]
+}

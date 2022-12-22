@@ -1,0 +1,29 @@
+{
+  "editor:delete-paragraph": [],
+  "app:delete-file": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ],
+  "editor:toggle-italics": [],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ]
+}
