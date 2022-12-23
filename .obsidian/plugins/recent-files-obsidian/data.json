@@ -1,48 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "03 JavaScript常用库",
-      "path": "01 AcWing教程/03 JavaScript常用库.md"
-    },
-    {
-      "basename": "实验 1 蓝桥杯 Web 应用开发知识点",
-      "path": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md"
-    },
-    {
-      "basename": "02 JavaScript",
-      "path": "01 AcWing教程/02 JavaScript.md"
+      "basename": "实验 9 盒模型",
+      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md"
     },
     {
       "basename": "01 CSS",
       "path": "01 AcWing教程/01 CSS.md"
     },
     {
-      "basename": "00 HTML 基础标签",
-      "path": "01 AcWing教程/00 HTML 基础标签.md"
-    },
-    {
       "basename": "实验 12 CSS3 新特性",
       "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 12 CSS3 新特性.md"
     },
     {
-      "basename": "实验 4 块级标签",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 4 块级标签.md"
-    },
-    {
-      "basename": "实验 0 写在开头的话",
-      "path": "00 蓝桥杯教程/00 写在开头的话/实验 0 写在开头的话.md"
-    },
-    {
-      "basename": "实验 9 盒模型",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md"
-    },
-    {
-      "basename": "实验 8 CSS 基础语法",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 8 CSS 基础语法.md"
-    },
-    {
-      "basename": "实验 3 行内标签",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 3 行内标签.md"
+      "basename": "实验 13 CSS3 弹性盒子",
+      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 13 CSS3 弹性盒子.md"
     },
     {
       "basename": "实验 11 浮动与定位",
@@ -53,16 +25,44 @@
       "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 10 display 属性.md"
     },
     {
+      "basename": "实验 1 蓝桥杯 Web 应用开发知识点",
+      "path": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md"
+    },
+    {
+      "basename": "实验 8 CSS 基础语法",
+      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 8 CSS 基础语法.md"
+    },
+    {
+      "basename": "03 JavaScript常用库",
+      "path": "01 AcWing教程/03 JavaScript常用库.md"
+    },
+    {
+      "basename": "02 JavaScript",
+      "path": "01 AcWing教程/02 JavaScript.md"
+    },
+    {
+      "basename": "00 HTML 基础标签",
+      "path": "01 AcWing教程/00 HTML 基础标签.md"
+    },
+    {
+      "basename": "实验 4 块级标签",
+      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 4 块级标签.md"
+    },
+    {
+      "basename": "实验 0 写在开头的话",
+      "path": "00 蓝桥杯教程/00 写在开头的话/实验 0 写在开头的话.md"
+    },
+    {
+      "basename": "实验 3 行内标签",
+      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 3 行内标签.md"
+    },
+    {
       "basename": "实验 14 媒体查询",
       "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 14 媒体查询.md"
     },
     {
       "basename": "实验 6 HTML5 新特性",
       "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 6 HTML5 新特性.md"
-    },
-    {
-      "basename": "实验 13 CSS3 弹性盒子",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 13 CSS3 弹性盒子.md"
     },
     {
       "basename": "实验 7 HTML5 本地存储",
