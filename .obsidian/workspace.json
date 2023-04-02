@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "941c81ccdc4ab0c2",
+        "id": "afe50ed0c9b3600e",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ef75edc2551c78",
+            "id": "403d8de4aaeff78b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "box-sizing",
+                "query": "transform",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 293.5
   },
   "right": {
     "id": "a023e450ecd8161f",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,9 +138,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -158,17 +149,41 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b2ef75edc2551c78",
+  "active": "e59ba635f9b74ed6",
   "lastOpenFiles": [
-    "01 AcWing教程/01 CSS.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 12 CSS3 新特性.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 13 CSS3 弹性盒子.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 11 浮动与定位.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 10 display 属性.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md",
-    "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md",
-    "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 8 CSS 基础语法.md",
-    "01 AcWing教程/03 JavaScript常用库.md",
-    "01 AcWing教程/02 JavaScript.md"
+    "00 蓝桥杯教程/09 第九讲 Node.js/实验 74 认识 Node.js.md",
+    "未命名 9.md",
+    "00 蓝桥杯教程/09 第九讲 Node.js/实验 77 Node.js 文件操作.md",
+    "00 蓝桥杯教程/09 第九讲 Node.js/实验 76 初始化路由.md",
+    "00 蓝桥杯教程/09 第九讲 Node.js/实验 75 Web 请求.md",
+    "00 蓝桥杯教程/08 第八讲 ECharts/文档 8 交互组件.md",
+    "00 蓝桥杯教程/08 第八讲 ECharts/实验 73 事件处理.md",
+    "00 蓝桥杯教程/08 第八讲 ECharts/实验 72 异步数据加载.md",
+    "00 蓝桥杯教程/08 第八讲 ECharts/实验 71 基本图表绘制.md",
+    "00 蓝桥杯教程/08 第八讲 ECharts/实验 70 基础知识介绍.md",
+    "00 蓝桥杯教程/08 第八讲 ECharts/实验 69 认识 ECharts.md",
+    "未命名 10.md",
+    "00 蓝桥杯教程/07 第七讲 Element UI/实验 68 导航组件.md",
+    "00 蓝桥杯教程/07 第七讲 Element UI/实验 67 Dialog 对话框组件.md",
+    "00 蓝桥杯教程/07 第七讲 Element UI/实验 66 消息提示组件.md",
+    "00 蓝桥杯教程/07 第七讲 Element UI/实验 65 表格组件.md",
+    "00 蓝桥杯教程/07 第七讲 Element UI/实验 64 表单组件.md",
+    "00 蓝桥杯教程/07 第七讲 Element UI/实验 63 基础组件.md",
+    "00 蓝桥杯教程/07 第七讲 Element UI/实验 62 Layout 布局 和 Container 布局容器.md",
+    "00 蓝桥杯教程/06 第六讲 Vue.js/实验 50 认识 Vue.md",
+    "00 蓝桥杯教程/07 第七讲 Element UI/实验 61 认识 Element UI.md",
+    "00 蓝桥杯教程/06 第六讲 Vue.js/实验 60  Vuex 状态管理器.md",
+    "00 蓝桥杯教程/06 第六讲 Vue.js/实验 59 Vue-Router 路由管理器.md",
+    "00 蓝桥杯教程/06 第六讲 Vue.js/实验 58 Axios 的使用.md",
+    "00 蓝桥杯教程/06 第六讲 Vue.js/实验 57 组件.md",
+    "00 蓝桥杯教程/06 第六讲 Vue.js/实验 56 表单处理.md",
+    "00 蓝桥杯教程/09 第九讲 Node.js",
+    "00 蓝桥杯教程/08 第八讲 ECharts",
+    "00 蓝桥杯教程/07 第七讲 Element UI",
+    "00 蓝桥杯教程/06 第六讲 Vue.js",
+    "00 蓝桥杯教程/05 第五讲 ES6",
+    "00 蓝桥杯教程/04 第四讲  jQuery",
+    "00 蓝桥杯教程/第三讲 JavaScript/未命名",
+    "00 蓝桥杯教程/03 第三讲 JavaScript"
   ]
 }

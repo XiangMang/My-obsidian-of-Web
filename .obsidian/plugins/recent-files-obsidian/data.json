@@ -1,80 +1,196 @@
 {
   "recentFiles": [
     {
-      "basename": "实验 9 盒模型",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 9 盒模型.md"
+      "basename": "实验 74 认识 Node.js",
+      "path": "00 蓝桥杯教程/09 第九讲 Node.js/实验 74 认识 Node.js.md"
     },
     {
-      "basename": "01 CSS",
-      "path": "01 AcWing教程/01 CSS.md"
+      "basename": "实验 77 Node.js 文件操作",
+      "path": "00 蓝桥杯教程/09 第九讲 Node.js/实验 77 Node.js 文件操作.md"
     },
     {
-      "basename": "实验 12 CSS3 新特性",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 12 CSS3 新特性.md"
+      "basename": "实验 76 初始化路由",
+      "path": "00 蓝桥杯教程/09 第九讲 Node.js/实验 76 初始化路由.md"
     },
     {
-      "basename": "实验 13 CSS3 弹性盒子",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 13 CSS3 弹性盒子.md"
+      "basename": "实验 75 Web 请求",
+      "path": "00 蓝桥杯教程/09 第九讲 Node.js/实验 75 Web 请求.md"
     },
     {
-      "basename": "实验 11 浮动与定位",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 11 浮动与定位.md"
+      "basename": "文档 8 交互组件",
+      "path": "00 蓝桥杯教程/08 第八讲 ECharts/文档 8 交互组件.md"
     },
     {
-      "basename": "实验 10 display 属性",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 10 display 属性.md"
+      "basename": "实验 73 事件处理",
+      "path": "00 蓝桥杯教程/08 第八讲 ECharts/实验 73 事件处理.md"
     },
     {
-      "basename": "实验 1 蓝桥杯 Web 应用开发知识点",
-      "path": "00 蓝桥杯教程/01 第一讲 蓝桥杯 Web 应用开发竞赛概述/实验 1 蓝桥杯 Web 应用开发知识点.md"
+      "basename": "实验 72 异步数据加载",
+      "path": "00 蓝桥杯教程/08 第八讲 ECharts/实验 72 异步数据加载.md"
     },
     {
-      "basename": "实验 8 CSS 基础语法",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 8 CSS 基础语法.md"
+      "basename": "实验 71 基本图表绘制",
+      "path": "00 蓝桥杯教程/08 第八讲 ECharts/实验 71 基本图表绘制.md"
     },
     {
-      "basename": "03 JavaScript常用库",
-      "path": "01 AcWing教程/03 JavaScript常用库.md"
+      "basename": "实验 70 基础知识介绍",
+      "path": "00 蓝桥杯教程/08 第八讲 ECharts/实验 70 基础知识介绍.md"
     },
     {
-      "basename": "02 JavaScript",
-      "path": "01 AcWing教程/02 JavaScript.md"
+      "basename": "实验 69 认识 ECharts",
+      "path": "00 蓝桥杯教程/08 第八讲 ECharts/实验 69 认识 ECharts.md"
     },
     {
-      "basename": "00 HTML 基础标签",
-      "path": "01 AcWing教程/00 HTML 基础标签.md"
+      "basename": "实验 68 导航组件",
+      "path": "00 蓝桥杯教程/07 第七讲 Element UI/实验 68 导航组件.md"
     },
     {
-      "basename": "实验 4 块级标签",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 4 块级标签.md"
+      "basename": "实验 67 Dialog 对话框组件",
+      "path": "00 蓝桥杯教程/07 第七讲 Element UI/实验 67 Dialog 对话框组件.md"
     },
     {
-      "basename": "实验 0 写在开头的话",
-      "path": "00 蓝桥杯教程/00 写在开头的话/实验 0 写在开头的话.md"
+      "basename": "实验 66 消息提示组件",
+      "path": "00 蓝桥杯教程/07 第七讲 Element UI/实验 66 消息提示组件.md"
     },
     {
-      "basename": "实验 3 行内标签",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 3 行内标签.md"
+      "basename": "实验 65 表格组件",
+      "path": "00 蓝桥杯教程/07 第七讲 Element UI/实验 65 表格组件.md"
     },
     {
-      "basename": "实验 14 媒体查询",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 14 媒体查询.md"
+      "basename": "实验 64 表单组件",
+      "path": "00 蓝桥杯教程/07 第七讲 Element UI/实验 64 表单组件.md"
     },
     {
-      "basename": "实验 6 HTML5 新特性",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 6 HTML5 新特性.md"
+      "basename": "实验 63 基础组件",
+      "path": "00 蓝桥杯教程/07 第七讲 Element UI/实验 63 基础组件.md"
     },
     {
-      "basename": "实验 7 HTML5 本地存储",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 7 HTML5 本地存储.md"
+      "basename": "实验 62 Layout 布局 和 Container 布局容器",
+      "path": "00 蓝桥杯教程/07 第七讲 Element UI/实验 62 Layout 布局 和 Container 布局容器.md"
     },
     {
-      "basename": "实验 5 表单标签",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 5 表单标签.md"
+      "basename": "实验 50 认识 Vue",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 50 认识 Vue.md"
     },
     {
-      "basename": "实验 2 HTML 基本结构",
-      "path": "00 蓝桥杯教程/02 第二讲 HTML 和 CSS/实验 2 HTML 基本结构.md"
+      "basename": "实验 61 认识 Element UI",
+      "path": "00 蓝桥杯教程/07 第七讲 Element UI/实验 61 认识 Element UI.md"
+    },
+    {
+      "basename": "实验 60  Vuex 状态管理器",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 60  Vuex 状态管理器.md"
+    },
+    {
+      "basename": "实验 59 Vue-Router 路由管理器",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 59 Vue-Router 路由管理器.md"
+    },
+    {
+      "basename": "实验 58 Axios 的使用",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 58 Axios 的使用.md"
+    },
+    {
+      "basename": "实验 57 组件",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 57 组件.md"
+    },
+    {
+      "basename": "实验 56 表单处理",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 56 表单处理.md"
+    },
+    {
+      "basename": "实验 55 事件处理",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 55 事件处理.md"
+    },
+    {
+      "basename": "实验 54 条件与循环渲染",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 54 条件与循环渲染.md"
+    },
+    {
+      "basename": "实验 53 class 与 style 绑定",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 53 class 与 style 绑定.md"
+    },
+    {
+      "basename": "实验 52 计算、侦听属性与过滤器",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 52 计算、侦听属性与过滤器.md"
+    },
+    {
+      "basename": "实验 51 模板语法",
+      "path": "00 蓝桥杯教程/06 第六讲 Vue.js/实验 51 模板语法.md"
+    },
+    {
+      "basename": "实验 49 Proxy",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 49 Proxy.md"
+    },
+    {
+      "basename": "实验 48 模块化",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 48 模块化.md"
+    },
+    {
+      "basename": "实验 47 异步编程",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 47 异步编程.md"
+    },
+    {
+      "basename": "实验 46 Set 和 Map",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 46 Set 和 Map.md"
+    },
+    {
+      "basename": "实验 40 新增关键字",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 40 新增关键字.md"
+    },
+    {
+      "basename": "实验 45 对象的扩展",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 45 对象的扩展.md"
+    },
+    {
+      "basename": "实验 44 类的扩展",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 44 类的扩展.md"
+    },
+    {
+      "basename": "实验 43 函数的扩展",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 43 函数的扩展.md"
+    },
+    {
+      "basename": "实验 42 数组的扩展",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 42 数组的扩展.md"
+    },
+    {
+      "basename": "实验 41 字符串的扩展",
+      "path": "00 蓝桥杯教程/05 第五讲 ES6/实验 41 字符串的扩展.md"
+    },
+    {
+      "basename": "实验 35 动画",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 35 动画.md"
+    },
+    {
+      "basename": "实验 39 AJAX",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 39 AJAX.md"
+    },
+    {
+      "basename": "实验 38 遍历",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 38 遍历.md"
+    },
+    {
+      "basename": "实验 27 认识 jQuery",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 27 认识 jQuery.md"
+    },
+    {
+      "basename": "实验 28 基本选择器",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 28 基本选择器.md"
+    },
+    {
+      "basename": "实验 29 层次选择器",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 29 层次选择器.md"
+    },
+    {
+      "basename": "实验 30 属性选择器",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 30 属性选择器.md"
+    },
+    {
+      "basename": "实验 33 事件对象",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 33 事件对象.md"
+    },
+    {
+      "basename": "实验 34 DOM 操作",
+      "path": "00 蓝桥杯教程/04 第四讲  jQuery/实验 34 DOM 操作.md"
     }
   ],
   "omittedPaths": [],
